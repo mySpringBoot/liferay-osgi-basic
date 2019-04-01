@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: helloworld-api
+Bundle-SymbolicName: com.liferay.vishal.training.hello.api
+Bundle-Version: 1.0.0
+Created-By: 1.8.0_161 (Oracle Corporation)
+Export-Package: com.liferay.vishal.training.hello.api.api;version="1.0
+ .0"
+Javac-Debug: on
+Javac-Deprecation: off
+Javac-Encoding: UTF-8
+Private-Package: com.liferay.vishal.training.hello.api
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.5.0.201709291849
